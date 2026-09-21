@@ -18,7 +18,7 @@ Python 3.8+
 ## Install
 
 ```bash
-git clone https://github.com/doxlngs/sniper.git
+git clone https://github.com/doxlngs/tiktok-discord-username-checker.git
 cd sniper
 pip install -r requirements.txt
 ```
@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ### Linux
 
 ```bash
-git clone https://github.com/doxlngs/sniper.git
+git clone https://github.com/doxlngs/tiktok-discord-username-checker.git
 cd sniper
 python3 -m venv venv && source venv/bin/activate
 pip3 install -r requirements.txt
